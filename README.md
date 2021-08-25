@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nikita
 - 👀 I’m interested in python, analytics, web-programming
 - 🌱 I’m currently learning python Flask
-- 📫 How to reach me in telegram by nickname
+- 📫 You can reach me in telegram by nickname
